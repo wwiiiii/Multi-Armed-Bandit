@@ -1,3 +1,6 @@
+## 알고리즘 설명
+http://wwiiiii.tistory.com/15
+
 ## 환경
 python 3.6.3
 numpy 1.13.3
